@@ -1,0 +1,13 @@
+env:
+  commonjs: true
+  es6: true
+  node: true
+extends: google
+parserOptions:
+  ecmaVersion: 2018
+rules:
+  max-len:
+    - error
+    - code: 100
+  require-jsdoc:
+    - off
