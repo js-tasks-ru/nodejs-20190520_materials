@@ -1,0 +1,12 @@
+unit
+functional
+integrational/e2e
+
+
+load testing, generative, mutation, ...
+
+
+mocha, expect, sinon, nock
+
+jest, tape, jasmine, rome, ...
+chai, expect, assert, ...
